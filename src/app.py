@@ -1,4 +1,4 @@
 print("first commit!!")
 
-a = input()
+a = 20
 print(a)
