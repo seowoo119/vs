@@ -1,14 +1,19 @@
 # VS 프로젝트
 
 ## 1. 폴더 구조
-vs/
-├── src/
-│ └── app.py
-├── doc/
-│ └── images/
-│ ├── capture1.png
-│ └── capture2.png
-└── README.md
+```
+C:.
+│  README.md
+│  tree.txt
+│  
+├─doc
+│  └─images
+│          capture1.png
+│          capture2.png
+│          
+└─src
+        app.py
+```    
 
 ## 2. Commit 기록
 1️⃣ **첫 번째 커밋**  
