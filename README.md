@@ -29,8 +29,8 @@ C:.
 - 내용: 문구 수정  
 
 ## 3. 캡처 이미지
-- `capture1.png`: Commit 완료 화면  
-- `capture2.png`: GitHub push → pull 후 VS Code 화면  
+- `capture1.png`:  (doc/image/capture1.png)
+- `capture2.png`: (doc/images/capture2.png) 
 
 ## 4. 느낀 점
 Git과 VS Code를 연동하면서 push/pull 과정을 이해할 수 있었다. 나에게는 조금 어려워서 더 연습을 많이 해야할 것 같았다.
